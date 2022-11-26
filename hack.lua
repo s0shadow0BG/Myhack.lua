@@ -1,6 +1,6 @@
 -- REQUIRED
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("TITLE", "DarkTheme")
+local Window = Library.CreateLib("Shadow hub|almost all games, "DarkTheme")
 
 --TABS
 
