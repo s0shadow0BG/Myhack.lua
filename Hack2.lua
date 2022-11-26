@@ -185,7 +185,7 @@ GamesTab:AddButton({
 MainTab:AddButton({
 	Name = "Dex",
 	Callback = function()
-        loadstring(game:GetObjects("rbxassetid://418957341")[1].Source)()
+        loadstring(game:HttpGet(('https://raw.githubusercontent.com/s0shadow0BG/Myhack.lua/main/Dex.lua'),true))()
   	end    
 })
 
