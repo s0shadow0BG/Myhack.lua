@@ -65,7 +65,7 @@ CreditsTab:AddLabel("Helper's Discord - d3v1ldr4g0n#7637")
 PTab:AddSlider({
 	Name = "Slider",
 	Min = 50,
-	Max = 50000,
+	Max = 500,
 	Default = 5,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
@@ -78,7 +78,7 @@ PTab:AddSlider({
 PTab:AddSlider({
 	Name = "Slider",
 	Min = 16,
-	Max = 50000000,
+	Max = 500,
 	Default = 5,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
